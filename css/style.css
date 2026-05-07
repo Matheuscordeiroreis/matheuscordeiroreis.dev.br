@@ -393,10 +393,6 @@ footer {
     font-size: 0.9rem;
 }
 
-/* ===================================================
-   RESPONSIVIDADE
-=================================================== */
-
 @media (max-width: 900px) {
     #hero {
         flex-direction: column;
