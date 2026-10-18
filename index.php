@@ -78,13 +78,15 @@
             </div>
             <div class="projeto-card">
                 <span class="status andamento">Em andamento</span>
-                <h3>Sistema de Ninjas (POO)</h3>
-                <p>Sistema em Java com foco em orientação a objetos, utilizando herança, interfaces e enums para modelar personagens e habilidades.</p>
+                <h3>Cadastros de Ninjas</h3>
+                <p>Sistema em Java com foco em orientação a objetos, percistencia em bancos de dados e springboot.</p>
                 <div class="tecnologias-usadas">
                     <span>Java</span>
+                    <span>Springboot</span>
+                    <span>H2 database</span>
                 </div>
                 <div class="projeto-links">
-                    <a href="https://github.com/Matheuscordeiroreis/Desafio4-Java10x" target="_blank"><i class="bi bi-github"></i> GitHub</a>
+                    <a href="https://github.com/Matheuscordeiroreis/Cadastro_de_NInja" target="_blank"><i class="bi bi-github"></i> GitHub</a>
                 </div>
             </div>
         </div>
