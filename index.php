@@ -109,7 +109,7 @@
             <h2>Certificados</h2>
             <div class="item-formacao">
                 <h3>HTML Developer</h3>
-                <span>DIO.me • Concluído</span>
+                <span>DIO.me • Concluído • <a href="https://hermes.dio.me/certificates/2QCUMR4D.pdf">Ver certificado</a></span>
             </div>
         </section>
     </div>
